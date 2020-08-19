@@ -6,3 +6,5 @@ Includes features (pause, play, forward, backward, volume, mute, repeat, full sc
 
 
 ![Alt text](/image1.png?raw=true "Screenshot")
+
+DEMO https://youtu.be/c2hLKU6LtXI
