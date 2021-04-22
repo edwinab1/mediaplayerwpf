@@ -1,5 +1,5 @@
 
-## Visual C# WPF
+## Visual C# WPF MEDIA PLAYER
 
 This is a basic media player.
 Includes features (pause, play, forward, backward, volume, mute, repeat, full screen, drag and drop, etc)
